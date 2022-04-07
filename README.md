@@ -23,6 +23,6 @@
 
 💙 git clone https://github.com/hassan5542/bypass-Subhan
 
-💙 cd SUBHAN-XD
+💙 cd bypass-Subhan
 
 💙 python run.py
